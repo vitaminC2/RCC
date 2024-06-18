@@ -1,0 +1,1 @@
+This program allows you to perform some functions on a remote computer. To make it work correctly, you have to run server.py on your computer and run client.py on remote PC. You have to enter the right IP iin code, that corresponds to IP of the remote PC.
